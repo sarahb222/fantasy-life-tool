@@ -10,9 +10,8 @@ Using the Program:
 
 -You can hover over the map buttons to see the name of the location.
 
--The program's title changes depending on which buttons you have clicked,
+-The program's title changes depending on which buttons you have clicked, telling you the location and which option button was pressed.
 
-	telling you the location and which option button was pressed.
 -Selecting a location on the left will change the request list to show only
 	quests associated with that particular location. If you choose "ALL" then
   all quest locations will show (this is the default option when you open
