@@ -1,5 +1,7 @@
 # fantasy-life-tool
+
 Quest tracker for the 3DS game Fantasy Life
+
 Using the Program:
 
 -------------Maps and Buttons-------------
